@@ -9,16 +9,10 @@ Hub package for [Wahoo][Wahoo] / [fish](fishshell.com).
 ## Install
 > _Note_: You need to have `hub` installed prior to loading Wahoo.
 
-If not yet done `hub` can be installed using `homebrew`:
+On OSX `hub` can be installed using `homebrew`:
 
 ```fish
 brew install hub
-```
-
-Alternatively by using `rubygems`:
-
-```fish
-gem install hub
 ```
 
 Finally, you can install the package to Wahoo:
